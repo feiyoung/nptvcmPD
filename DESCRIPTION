@@ -1,0 +1,16 @@
+Package: nptvcmPD
+Type: Package
+Title: NonParametric Time-Varying Coefficient Mmodel for Panel Data
+Version: 0.1.0
+Author: Wei Liu
+Maintainer: Wei Liu <weiliu@smail.swufe.edu.cn>
+Description: Nonparametric time-varying coefﬁcients model based penalty for longitudinal data 
+    with pre-speciﬁed ﬁnite time points, also known as panel data.
+License: GPL
+Encoding: UTF-8
+LazyData: true
+Date: 2019-03-13
+NeedsCompilation: no
+Depends: stats, ncvreg, R (>= 3.3.0)
+Imports: MASS, graphics
+Packaged: 2019-03-22 11:43:11 UTC; LiuWei

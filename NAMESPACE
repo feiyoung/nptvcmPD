@@ -1,0 +1,9 @@
+import("methods")
+
+export(nptvcm, gendata, plot.nptvcm, plot)
+importFrom("grDevices", "gray.colors")
+importFrom("graphics", "matplot", "segments")
+importFrom("ncvreg", "ncvreg", 'cv.ncvreg')
+
+S3method("plot","nptvcm")
+
