@@ -1,7 +1,7 @@
 # nptvcmPD
-NonParametric Time-Varying Coefficient Mmodel for Panel Data (nptvcmPD). Nonparametric time-varying coef?cients model based penalty for longitudinal data with pre-speci?ed ?nite time points, also known as panel data.
+NonParametric Time-Varying Coefficient Model for Panel Data (nptvcmPD). Nonparametric time-varying coefficients model based penalty for longitudinal data with pre-specified finite time points, also known as panel data.
 ## Reference
-* Huazhen Lin, Hyokyoung G. Hong, Baoying Yang, Wei Liu, Yong Zhang, Gang-Zhi Fan, Yi Li (2019). Nonparametric time-varying coe?cient models for panel data: Study of collection rate of public pension contributions. submitted.
+* Lin, H., Hong, H. G., Yang, B., Liu, W., Zhang, Y., Fan, G. Z., & Li, Y. (2019). Nonparametric Time-Varying Coefficient Models for Panel Data. Statistics in Biosciences, 1-19.
 ## Installation
 * Install [Rtools](http://cran.r-project.org/bin/windows/Rtools/)
 * Install [devtools](http://cran.r-project.org/web/packages/devtools/index.html) by running 
